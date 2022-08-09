@@ -1,0 +1,6 @@
+.gitignore
+webtracker
+xampp
+coverage
+.vscode
+.git
