@@ -48,7 +48,7 @@ console.log(aes256HashedSequence);
 
 // BLOCKCHAIN: Real Integers, Metarules, and Functions
 
-// Variables from script_1 with real integers from 1 to 10
+// Variables with real integers from 1 to 10
 let [
   { Resonance }, // createReflectiveResonance
   [ Impulse ], // eliminateWeakerSubsystem
