@@ -90,7 +90,7 @@ function useMetarule(metaruleIndex) {
   }
 }
 
-// Variables from script_2 with fractions ranging from 0.1 to 1.0
+// Variables with fractions ranging from 0.1 to 1.0
 let [
   { Resonance }, // createReflectiveResonance
   [ Impulse ], // eliminateWeakerSubsystem
